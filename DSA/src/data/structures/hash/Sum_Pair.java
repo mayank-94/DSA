@@ -1,7 +1,7 @@
 /**
  * 
  */
-package data.structures.arrays;
+package data.structures.hash;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -9,7 +9,7 @@ package data.structures.arrays;
  */
 public class FindMissing_And_Duplicated {
 	public static void main(String[] args) {
-		int arr[] = {2, 3, 1, 5, 1};
+		int arr[] = {2, 3, 5, 1, 5};
 		int i = 0;
 		while(i < arr.length) {
 			if(arr[i] != arr[arr[i] - 1])
