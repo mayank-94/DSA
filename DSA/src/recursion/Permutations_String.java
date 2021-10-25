@@ -1,7 +1,7 @@
 /**
  * 
  */
-package data.structures.arrays;
+package recursion;
 
 /**
  * @author mayankjain
