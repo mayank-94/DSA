@@ -13,7 +13,7 @@ import java.util.Set;
 public class LongestConsecutiveSubsequence {
 
 	public static void main(String[] args) {
-		int nums[] = {100, 4, 200, 2, 3, 1};
+		int nums[] = {100, 200, 2, 3, 1, 4};
 		Set<Integer> set = new HashSet<Integer>();
 		for(int x : nums) set.add(x);
 		int len = 0;
